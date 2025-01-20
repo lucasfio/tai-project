@@ -11,7 +11,7 @@ class LoginView {
                 <legend>Login</legend>
                 <input type="text" placeholder="login" id="login" name="login">
                 <input type="password" placeholder='password' id='pwd' name="pwd">
-                <button type="submit">Submit</button>
+                <button type="submit">999</button>
             </fieldset>
         </form>
         <?php
